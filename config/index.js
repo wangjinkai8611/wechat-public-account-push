@@ -60,7 +60,7 @@ export const config = {
     {
       name: "菲菲宝宝",
       id: "oCPv46b-Sjw9-ne0pTFEf7RiUcQY",
-      useTemplateId: "h2lglFDx_QItO1-U5tjW5RaNq5QGp2hECVcSvU-5Y40",
+      useTemplateId: "8glpSdbfZatZXwLiXGF9YAjOomECeQclm8UJHkFW24g",
       province: "河南",
       city: "焦作",
       horoscopeDate: '',
