@@ -65,7 +65,7 @@ export const config = {
       city: "焦作",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://www.baidu.com"",
+      openUrl: "https://www.baidu.com",
       festivals: [
         {"type": "生日", "name": "菲菲宝宝", "year": "1997", "date": "07-14"},
         {"type": "生日", "name": "milky", "year": "2020", "date": "04-20"},
@@ -82,7 +82,7 @@ export const config = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://www.baidu.com"",
+      openUrl: "https://www.baidu.com",
       festivals: [],
       customizedDateList: []
     },
@@ -94,7 +94,7 @@ export const config = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://www.baidu.com"",
+      openUrl: "https://www.baidu.com",
       festivals: [],
       customizedDateList: []
     },
